@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/029/219/837/non_2x/stopwatch-seamless-pattern-on-a-blue-background-timer-icon-theme-illustration-vector.jpg');
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.digit {
+    font-size: 150px;
+}
+
+#count {
+    font-size: 100px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(86, 196, 255);
+    color: #fff;
+    border: none;
+    box-shadow: 1px 1px 20px rgb(0, 0, 0);
+}
+
+h1{
+    font-size: 50px;
+    text-shadow: 1px 1px 20px black;
+}
